@@ -1,6 +1,6 @@
-package domain.model
+package data.model.local
 
-data class Doggo (
+class LocalDoggo (
     val id: String,
     val name: String,
     val race: String,
