@@ -7,5 +7,5 @@ data class Doggo (
     val gender: String,
     val vaccinated: Boolean,
     val adopted: Boolean,
-    val photo: String,
+    val photo: String
 )
